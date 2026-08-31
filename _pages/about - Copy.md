@@ -1,28 +1,12 @@
 ---
 permalink: /
-title: "About Me"
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a Postdoctoral Researcher in the Naval Architecture and Marine Engineering Department at the University of Michigan, working under the supervision of Professor Lei Zuo. My current work investigates ice and wave modeling relevant to offshore structures in severe conditions. I develop coupled numerical models and employ AI/ML methods to evaluate ice and wave loading, wave–ice interactions, and structural response of offshore structures.
-
-I earned my Ph.D. in Aerospace and Ocean Engineering from Virginia Tech, where I conducted experimental and theoretical research on fluid–structure interaction. This work combined high-speed imaging, Particle Image Velocimetry (PIV), Stereoscopic Digital Image Correlation (S-DIC), image processing, and towing-tank experiments to examine hydrodynamic loading and structural response of models with low flexural rigidity.
-
-Research Interests:
-- AI-Driven Modeling and Design of Offshore Structures
-- Experimental and Computational Fluid Dynamics
-- Fluid-Structure Interaction
-- Naval Architecture and Marine Hydrodynamics
-- Environmental Fluid Dynamics
-- Visualization and Image Processing
-
-
-For more information, please refer to my [full CV]({{'/files/Javaherian CV - Website Aug 26.pdf' | relative_url}}) or contact me at [mjava@umich.edu](mailto:mjava@umich.edu). 
-
-<!--
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
@@ -70,4 +54,3 @@ Example: editing a Markdown file for a talk
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
--->
