@@ -4,7 +4,7 @@ collection: leadership
 type: "Graduate Student Leadership"
 permalink: /leadership/aoe-graduate-student-assembly/
 venue: "Virginia Tech, Aerospace and Ocean Engineering"
-order: 4
+order: 3
 #date: 2021-11-01
 #location: "Blacksburg, Virginia"
 ---
