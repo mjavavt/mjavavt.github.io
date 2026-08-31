@@ -4,6 +4,7 @@ collection: leadership
 type: "Academic Service"
 permalink: /leadership/treasurer-umpda/
 venue: "University of Michigan"
+order: 2
 #date: 2025-03-01
 #location: "Ann Arbor, Michigan"
 ---
