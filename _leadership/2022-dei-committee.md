@@ -4,6 +4,7 @@ collection: leadership
 type: "Departmental Service"
 permalink: /leadership/dei-committee/
 venue: "Virginia Tech, Aerospace and Ocean Engineering"
+order: 4
 #date: 2022-09-01
 #location: "Blacksburg, Virginia"
 ---
