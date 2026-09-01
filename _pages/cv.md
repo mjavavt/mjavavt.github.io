@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-This page reflects a summary of my CV. For more details, please refer to the [full CV]({{'/files/Javaherian CV - Website Aug 26.pdf' | relative_url}}).
+This page reflects a summary of my CV. For a more detailed version, please refer to the [full CV]({{'/files/Javaherian CV - Website Aug 26.pdf' | relative_url}}).
 
 Education
 ======
@@ -26,14 +26,14 @@ Academic Appointments
 ======
 * **Postdoctoral Research Fellow**, University of Michigan, 2022–Present
   * Department of Naval Architecture and Marine Engineering
-  * Research on floating offshore renewable energy, Great Lakes ice and wave modeling, offshore wind systems, and AI/ML applications in marine engineering
+  * Research on offshore energy structures, marine energy systems, ice and wave modeling, marine energy resource assessment, and AI/ML applications in marine engineering
 
 * **Postdoctoral Researcher**, Virginia Tech, 2021–2022
   * Kevin T. Crofton Department of Aerospace and Ocean Engineering
   * Conducted fluid-structure interaction, particle image velocimetry, flexible-panel water-entry, and towing-tank experiments
 
 * **Graduate Research Assistant**, Virginia Tech, 2017–2021
-  * Investigated hydroelastic water entry, slamming, structural deformation, spray-root propagation, and the hydrodynamics of high-speed planing craft
+  * Investigated hydroelastic water entry, slamming, structural deformation, visualization and image processing, the motion and hydrodynamics of high-speed planing craft
 
 Research Highlights
 ======
