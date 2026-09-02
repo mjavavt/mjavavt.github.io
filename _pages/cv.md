@@ -63,8 +63,8 @@ Teaching and Mentorship
 
 Grant and Proposal Experience
 ======
-* Authored or contributed to more than 12 research proposals submitted to federal agencies and programs, including DOE, NSF, NOAA, OESI, and Michigan Sea Grant (two were funded)
-* Developed proposals for four U.S. Department of Energy energy-prize competitions, two of which received funding
+* Authored or contributed to more than 12 research proposals submitted to federal agencies and programs, including DOE, NSF, NOAA, OESI, and Michigan Sea Grant (two received funding)
+* Developed proposals for four U.S. Department of Energy energy-prize competitions (two received funding)
 * Support the development of collaborative proposals connecting engineering research with workforce development, student mentorship, community engagement, and the responsible deployment of marine energy technologies
 
 Selected Honors and Awards
