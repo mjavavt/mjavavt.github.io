@@ -26,7 +26,7 @@ Academic Appointments
 ======
 * **Postdoctoral Research Fellow**, University of Michigan, 2022–Present
   * Department of Naval Architecture and Marine Engineering
-  * Research on offshore energy structures, marine energy systems, ice and wave modeling, marine energy resource assessment, and AI/ML applications in marine engineering
+  * Research on offshore energy structures and systems, ice and wave modeling, marine energy resource assessment, and AI/ML applications in marine engineering
 
 * **Postdoctoral Researcher**, Virginia Tech, 2021–2022
   * Kevin T. Crofton Department of Aerospace and Ocean Engineering
@@ -37,29 +37,35 @@ Academic Appointments
 
 Research Highlights
 ======
-* Developed coupled hydrodynamic–ice–wave models to evaluate environmental conditions and offshore renewable-energy opportunities in the Great Lakes
-* Applied AI and machine-learning methods to Great Lakes ice and wave modeling
-* Evaluated ice risks and aero-hydrodynamic loading for fixed and floating offshore wind platforms
-* Designed and conducted water-entry, towing-tank, Particle Image Velocimetry (PIV), and Stereoscopic Digital Image Correlation (S-DIC) experiments
-* Developed image-processing methods for measuring structural deformation, spray-root propagation, and flow fields
-* Developed experimental and reduced-order methods for predicting hydrodynamic loading and structural response during water impact
-* Conducted outreach and community-engagement activities related to marine renewable-energy development
+* Conduct interdisciplinary research spanning naval architecture, marine hydrodynamics, fluid–structure interaction, offshore renewable energy, computational modeling, experimental fluid dynamics, and AI-enabled engineering
+* Develop AI- and machine-learning-based approaches for modeling environmental conditions and supporting the analysis and design of marine and offshore structures
+* Develop coupled hydrodynamic–ice–wave models to characterize cold-region environments and assess offshore wind and wave-energy resources
+* Evaluat ice hazards, environmental loading, aero-hydrodynamic response, and structural performance of fixed and floating offshore platforms
+* Investigated hydroelastic water impact, slamming, flexible structures, and high-speed planing craft through water-entry and towing-tank experiments
+* Designed and conducted experiments using Particle Image Velocimetry (PIV), Stereoscopic Digital Image Correlation (S-DIC), high-speed imaging, and data-acquisition systems
+* Developed image-processing, experimental, computational, and reduced-order methods for measuring flow fields, structural deformation, spray-root propagation, hydrodynamic loading, and vessel response
+* Designed and fabricated composite structures and experimental systems for water-impact, flexible-panel, and model-scale naval architecture applications
+* Applied marine simulation and design tools—including FVCOM, OpenFAST, WEC-Sim, OrcaFlex, and STAR-CCM+—to offshore energy and hydrodynamics problems
+* Translated marine engineering research into student research projects, outreach and community-engagement activities with Great Lakes communities and Tribal Nations
 
 Teaching and Mentorship
 ======
-* Completed the University of Michigan Postdoctoral Short Course on College Teaching in STEM
-* Designed and delivered graduate-level guest lectures on experimental fluid dynamics and coupled ice-wave modeling
-* Mentored graduate students conducting offshore-wind, water-entry, and PIV research
-* Advised four University of Michigan undergraduate researchers through the Undergraduate Research Opportunity Program
-* Mentored more than five Virginia Tech undergraduate researchers in experimental hydrodynamics
-* Developed educational materials and experiments for Virginia Tech Imagination Camps
-* Served as a teaching assistant for Hydrostatics, Hydrodynamics, and graduate-level Damage Stability at Amirkabir University of Technology
+* Co-instruct Marine Dynamics III (NA 540), a graduate-level course at the University of Michigan
+* Design and deliver graduate-level lectures on experimental fluid dynamics, marine hydrodynamics, and coupled ice–wave modeling
+* Completed the University of Michigan Postdoc Teaching Essentials program and also Postdoctoral Short Course on College Teaching in STEM
+* Mentor graduate students conducting research in offshore energy, marine structures, and AI/ML applications in ice and wave modeling
+* Advised five University of Michigan undergraduate researchers through the Undergraduate Research Opportunity Program (UROP), including projects in offshore wind energy, environmental impacts, and marine energy systems
+* Mentored three graduate students and five undergraduate students at Virginia Tech in water-entry experiments, PIV, oscillatory-flow experiments, fluid dynamics, and composite fabrication
+* Supervised undergraduate research on planing-craft slamming, hydroelasticity, structural response, and experimental data analysis
+* Developed course materials and hands-on fluid-dynamics experiments for Virginia Tech Imagination Camps
+* Served as a teaching assistant for Hydrostatics, Hydrodynamics, and graduate-level Damage Stability courses at Amirkabir University of Technology
+* Mentored student teams competing in collegiate competitions on offshore wind energy
 
 Grant and Proposal Experience
 ======
-* Wrote or contributed to more than 12 proposals submitted to agencies and programs including DOE, NSF, NOAA, OESI, and Michigan Sea Grant
-* Contributed to two funded research proposals
-* Developed four proposals for U.S. Department of Energy prize competitions, two of which received funding
+* Authored or contributed to more than 12 research proposals submitted to federal agencies and programs, including DOE, NSF, NOAA, OESI, and Michigan Sea Grant (two were funded)
+* Developed proposals for four U.S. Department of Energy energy-prize competitions, two of which received funding
+* Support the development of collaborative proposals connecting engineering research with workforce development, student mentorship, community engagement, and the responsible deployment of marine energy technologies
 
 Selected Honors and Awards
 ======
@@ -73,12 +79,14 @@ Selected Honors and Awards
 
 Patent
 ======
-* M. J. Javaherian, H. Zeraatgar, M. Barjasteh, and R. Yousefnejad, “A Universal Setup for Impact Test,” Iranian Patent **IR 84387**, G01L class, November 24, 2014
+* M. J. Javaherian, H. Zeraatgar, M. Barjasteh, and R. Yousefnejad, “A Universal Setup for Impact Test,” Iranian Patent IR 84387, G01L class, November 24, 2014
 
 Leadership and Professional Service
 ======
-* **President**, University of Michigan Postdoctoral Association, 2025–Present
-* **Treasurer**, University of Michigan Postdoctoral Association, 2024–2026
-* **Vice President and Board Member**, Aerospace and Ocean Engineering Graduate Student Assembly, Virginia Tech, 2019–2021
-* **Member**, Diversity, Equity, and Inclusion Committee, Aerospace and Ocean Engineering, Virginia Tech, 2022
+* Board Member, University of Michigan Postdoc Advisory Committee, 2026-Present
+* President, University of Michigan Postdoctoral Association, 2025–Present
+* Treasurer, University of Michigan Postdoctoral Association, 2024–2026
+* Vice President and Board Member, Aerospace and Ocean Engineering Graduate Student Assembly, Virginia Tech, 2019–2021
+* Member, Diversity, Equity, and Inclusion Committee, Aerospace and Ocean Engineering, Virginia Tech, 2022
+* Reviewer/co-reviewer, Scientific Journals in Nature, Taylor & Franics, MDP, and Elsevier
 * Member of ASME, ASNE, and APS
