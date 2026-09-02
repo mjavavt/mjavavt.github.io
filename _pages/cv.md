@@ -37,8 +37,8 @@ Academic Appointments
 
 Research Highlights
 ======
-* Conduct interdisciplinary research spanning naval architecture, marine hydrodynamics, fluid–structure interaction, offshore renewable energy, computational modeling, experimental fluid dynamics, and AI-enabled engineering
-* Develop AI- and machine-learning-based approaches for modeling environmental conditions and supporting the analysis and design of marine and offshore structures
+* Conduct interdisciplinary research spanning naval architecture, fluid–structure interaction, offshore energy, computational and experimental fluid dynamics, and AI/ML-enabled engineering
+* Develop AI/ML approaches for modeling environmental conditions and supporting the analysis and design of offshore structures
 * Develop coupled hydrodynamic–ice–wave models to characterize cold-region environments and assess offshore wind and wave-energy resources
 * Evaluat ice hazards, environmental loading, aero-hydrodynamic response, and structural performance of fixed and floating offshore platforms
 * Investigated hydroelastic water impact, slamming, flexible structures, and high-speed planing craft through water-entry and towing-tank experiments
@@ -52,14 +52,14 @@ Teaching and Mentorship
 ======
 * Co-instruct Marine Dynamics III (NA 540), a graduate-level course at the University of Michigan
 * Design and deliver graduate-level lectures on experimental fluid dynamics, marine hydrodynamics, and coupled ice–wave modeling
-* Completed the University of Michigan Postdoc Teaching Essentials program and also Postdoctoral Short Course on College Teaching in STEM
 * Mentor graduate students conducting research in offshore energy, marine structures, and AI/ML applications in ice and wave modeling
+* Completed the University of Michigan Postdoc Teaching Essentials program and also Postdoctoral Short Course on College Teaching in STEM
 * Advised five University of Michigan undergraduate researchers through the Undergraduate Research Opportunity Program (UROP), including projects in offshore wind energy, environmental impacts, and marine energy systems
 * Mentored three graduate students and five undergraduate students at Virginia Tech in water-entry experiments, PIV, oscillatory-flow experiments, fluid dynamics, and composite fabrication
 * Supervised undergraduate research on planing-craft slamming, hydroelasticity, structural response, and experimental data analysis
 * Developed course materials and hands-on fluid-dynamics experiments for Virginia Tech Imagination Camps
 * Served as a teaching assistant for Hydrostatics, Hydrodynamics, and graduate-level Damage Stability courses at Amirkabir University of Technology
-* Mentored student teams competing in collegiate competitions on offshore wind energy
+* Mentored and supervised student teams competing in collegiate competitions on offshore wind energy
 
 Grant and Proposal Experience
 ======
@@ -88,5 +88,5 @@ Leadership and Professional Service
 * Treasurer, University of Michigan Postdoctoral Association, 2024–2026
 * Vice President and Board Member, Aerospace and Ocean Engineering Graduate Student Assembly, Virginia Tech, 2019–2021
 * Member, Diversity, Equity, and Inclusion Committee, Aerospace and Ocean Engineering, Virginia Tech, 2022
-* Reviewer/co-reviewer, Scientific Journals in Nature, Taylor & Franics, MDP, and Elsevier
+* Reviewer/co-reviewer, Scientific Journals in Nature, Taylor & Francis, MDP, and Elsevier, 2024-Present
 * Member of ASME, ASNE, and APS
